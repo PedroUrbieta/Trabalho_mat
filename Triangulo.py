@@ -1,3 +1,4 @@
+# Pedro Henrique Urbieta dos Santos e Vinícius da Silva Mascarenhas
 import math
 import tkinter as tk
 from tkinter import messagebox
